@@ -1,0 +1,40 @@
+body {
+    padding: 50px 0px;
+
+}
+
+.container {
+
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(47, 98, 175);
+    color: white;
+    padding: 10px 3px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+
+
+}
+
+#textbox {
+    width: 100%;
+    border-color: rgb(47, 98, 175);
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: center;
+    background-color: rgb(47, 98, 175);
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    padding: 10px 3px;
+    margin: 0px;
+    width: 100%;
+
+}
