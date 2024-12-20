@@ -3,4 +3,4 @@
 
 Check out the live demo: [Demo Website](https://amiteshmaurya9.github.io/Temperature-Converter/)
 
-![Website Screenshot](Screenshot_1.jpeg) <!-- For local images -->
+![Website Screenshot](Screenshot_2.jpeg) <!-- For local images -->
